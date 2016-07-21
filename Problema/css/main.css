@@ -1,0 +1,53 @@
+
+div{
+    display: block;
+    background-color:#808080;
+    border:1px solid #0F0F0F;  
+    height: 100px;
+    width: 100px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+
+.portres{
+    background-color:#808080;
+    border:1px solid #0F0F0F;  
+    height: 120px;
+    width: 360px;
+    padding:3px 3px;
+    margin-bottom: 2px;
+    
+
+}
+.cuadrado1{
+	display: inline-block;
+	background-color:#808080;
+    border:1px solid #0F0F0F;  
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.cuadrado2{
+	display: inline-block;
+	background-color:#808080;
+    border:1px solid #0F0F0F;  
+    height: 100px;
+    width: 100px;
+}
+.cuadrado3{
+	display: inline-block;
+	background-color:#808080;
+    border:1px solid #0F0F0F;  
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.pordos{
+	display: inline-block;
+	margin-right: 5px;
+
+}
